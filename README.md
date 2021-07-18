@@ -17,4 +17,5 @@
 
 </p>
 
-<img  src="https://github-readme-stats.vercel.app/api/?username=anshika-18&theme=radical" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-18&theme=radical)](https://github.com/anshika-18/github-readme-stats)
+<img width="470" src="https://github-readme-stats.vercel.app/api/?username=anshika-18&theme=radical" /> <img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-18&theme=radical"/>
+
