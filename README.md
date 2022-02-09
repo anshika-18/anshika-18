@@ -17,5 +17,5 @@
 
 </p>
 
-<img width="470" src="https://github-readme-stats.vercel.app/api/?username=anshika-18&theme=radical" /> <img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-18&theme=radical"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/?username=anshika-18&theme=radical" /> <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-18&theme=radical"/>
 
